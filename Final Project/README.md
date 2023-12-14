@@ -2,7 +2,7 @@
 
 ## Achievement
 
-- [x] Final Project
+- ✅ Final Project
 
 
 ## Description

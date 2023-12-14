@@ -2,10 +2,10 @@
 
 ## Achievement
 
-- [x] Cyberchase
-- [x] 36 Views
-- [x] Normals
-- [x] Players
+- ✅ Cyberchase
+- ✅ 36 Views
+- ✅ Normals
+- ✅ Players
 
 
 ## Description

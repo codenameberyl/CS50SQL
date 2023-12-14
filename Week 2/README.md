@@ -2,9 +2,9 @@
 
 ## Achievement
 
-- [x] ATL
-- [x] Happy to Connect
-- [x] Union Square Donuts
+- ✅ ATL
+- ✅ Happy to Connect
+- ✅ Union Square Donuts
 
 
 ## Description

@@ -2,9 +2,9 @@
 
 ## Achievement
 
-- [x] Happy to Connect (Sentimental)
-- [x] Don’t Panic! (Sentimental) with Python
-- [-] Don’t Panic! (Sentimental) with Java
+- ✅ Happy to Connect (Sentimental)
+- ✅ Don’t Panic! (Sentimental) with Python
+- ❌ Don’t Panic! (Sentimental) with Java
 
 
 ## Description

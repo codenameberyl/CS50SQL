@@ -2,8 +2,8 @@
 
 ## Achievement
 
-- [x] Don't Panic!
-- [x] Meteorite Cleaning
+- ✅ Don't Panic!
+- ✅ Meteorite Cleaning
 
 
 ## Description

@@ -2,9 +2,9 @@
 
 ## Achievement
 
-- [x] Census Taker
-- [x] The Private Eye
-- [x] Bed and Breakfast
+- ✅ Census Taker
+- ✅ The Private Eye
+- ✅ Bed and Breakfast
 
 
 ## Description
